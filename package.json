@@ -1,0 +1,18 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-dht-sensor": "~1.0.4",
+        "node-red-contrib-firebase": "~1.1.1",
+        "node-red-contrib-firebase-realtime-database": "~0.1.3",
+        "node-red-contrib-json2csv": "0.0.3",
+        "node-red-contrib-light-scheduler": "0.0.15",
+        "node-red-contrib-moment": "~3.0.3",
+        "node-red-contrib-mongodb3": "~2.0.1",
+        "node-red-dashboard": "~2.17.0",
+        "node-red-node-mongodb": "0.0.14",
+        "node-red-node-sqlite": "~0.4.1"
+    }
+}
